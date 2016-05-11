@@ -20,11 +20,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="dev_1">Sri Harsha &#91;srisurya95&#93;</string>
-    <string name="dev1_description">Lead developer, medical aspirant, AOSP lover, Themer</string>
-    <string name="dev_2">Akhil Narang &#91;fat guy&#93;</string>
-    <string name="dev2_description">Helper, AOSP and Layers and FOOD &#60;3LOVER , always hungry</string>
-    <string name="dev_info">AOSP-RRO Developers</string>
+    <string name="dev_1">Hamza &#91;MZO&#93;</string>
+    <string name="dev1_description">Lead developer</string>
+    <string name="dev_2">Sri Harsha &#91;srisurya95&#93;</string>
+    <string name="dev2_description">Lead developer, medical aspirant, AOSP lover, Themer</string>
+    <string name="dev_3">Akhil Narang &#91;fat guy&#93;</string>
+    <string name="dev3_description">Helper, AOSP and Layers and FOOD &#60;3LOVER , always hungry</string>
+    <string name="dev_info">M-AOSP Developers</string>
 
     <!-- Hardware Keys -->
     <string name="button_pref_title">Buttons</string>

@@ -17,14 +17,18 @@ implied.
 
 <PreferenceScreen 
 xmlns:android="http://schemas.android.com/apk/res/android"
-        android:title="AOSP-RRO Developers">
+        android:title="M-AOSP Developers">
 
- <Preference style="?android:preferenceInformationStyle"
+<Preference style="?android:preferenceInformationStyle"
                 android:title="@string/dev_1"
                 android:summary="@string/dev1_description"/>
 
-         <Preference style="?android:preferenceInformationStyle"
+ <Preference style="?android:preferenceInformationStyle"
                 android:title="@string/dev_2"
                 android:summary="@string/dev2_description"/>
+
+         <Preference style="?android:preferenceInformationStyle"
+                android:title="@string/dev_3"
+                android:summary="@string/dev3_description"/>
 </PreferenceScreen>
 
