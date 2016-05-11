@@ -22,10 +22,12 @@
 
     <string name="dev_1">Hamza &#91;MZO&#93;</string>
     <string name="dev1_description">Lead developer</string>
-    <string name="dev_2">Sri Harsha &#91;srisurya95&#93;</string>
-    <string name="dev2_description">Lead developer, medical aspirant, AOSP lover, Themer</string>
-    <string name="dev_3">Akhil Narang &#91;fat guy&#93;</string>
-    <string name="dev3_description">Helper, AOSP and Layers and FOOD &#60;3LOVER , always hungry</string>
+    <string name="dev_2">Abdullah &#91;MZO&#93;</string>
+    <string name="dev2_description">Trying to be a developer</string>
+    <string name="dev_3">Sri Harsha &#91;srisurya95&#93;</string>
+    <string name="dev3_description">Lead developer, medical aspirant, AOSP lover, Themer</string>
+    <string name="dev_4">Akhil Narang &#91;fat guy&#93;</string>
+    <string name="dev4_description">Helper, AOSP and Layers and FOOD &#60;3LOVER , always hungry</string>
     <string name="dev_info">M-AOSP Developers</string>
 
     <!-- Hardware Keys -->
